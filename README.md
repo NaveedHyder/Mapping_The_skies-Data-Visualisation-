@@ -1,6 +1,4 @@
-# ** Project Title **
-## Mapping The skies 
-## Data Visualization of Indigo Airlines' Domestic Flight Routes at the Busiest Airports in India
+## Mapping The skies : Data Visualization of Indigo Airlines' Domestic Flight Routes at the Busiest Airports in India
 
 
 # Project Overview
@@ -9,7 +7,7 @@ The visualization is designed to show the number of flights taking off in each h
 The project also uses the Flourish Studio platform to create the moving bar chart.
 
 # Technologies Used
-*Python 3.0+
+*Python 3.0+ __
 *mpl_toolkits.basemap
 *matplotlib.pyplot
 *matplotlib.animation
